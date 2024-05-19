@@ -3,17 +3,18 @@ header {
     color: #fff;
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 10px 10px 10px 10px;
-    text-align: center;
+    text-align: left;
+    font-size: 28px;
     margin: 0px;
 }
 nav {
-    background-color: #CC4DF;
+    background-color: #DEBAC0;
     color: #fff;
     padding: 10px 10px;
     text-align: left;
     justify-content: center;
     align-items: center;
-    background-color: #CC4DF;
+    background-color: #DEBAC0;
     color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 10px 10px;
